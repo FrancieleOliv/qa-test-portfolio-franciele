@@ -88,7 +88,7 @@ Screenshots and interaction logs are available in the test directory.
 
 ## Project Structure
 
-qa-test-portfolio  
+qa-test-portfolio-franciele
 │  
 ├── test-cases  
 │ └── vagas-vccv-ai-cv-test  
@@ -186,7 +186,7 @@ Capturas de tela e registros de interações estão disponíveis na pasta do tes
 
 ## Estrutura do projeto
 
-qa-test-portfolio  
+qa-test-portfolio-franciele
 │  
 ├── test-cases  
 │ └── vagas-vccv-ai-cv-test  
