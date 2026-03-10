@@ -88,15 +88,18 @@ Screenshots and interaction logs are available in the test directory.
 
 ## Project Structure
 
-qa-test-portfolio-franciele
+qa-test-portfolio-franciele  
+│  
+├── .gitignore  
+├── LICENSE  
+├── README.md  
 │  
 ├── test-cases  
-│ └── vagas-vccv-ai-cv-test  
-│ ├── test-report.md  
-│ ├── screenshots  
-│ └── evidence  
-│  
-└── README.md  
+   └── vagas-vccv-ai-cv-test  
+       ├── test-report.md  
+       ├── screenshots  
+       └── evidence   
+
 
 ------------
 
@@ -186,12 +189,14 @@ Capturas de tela e registros de interações estão disponíveis na pasta do tes
 
 ## Estrutura do projeto
 
-qa-test-portfolio-franciele
+qa-test-portfolio-franciele  
+│  
+├── .gitignore  
+├── LICENSE  
+├── README.md  
 │  
 ├── test-cases  
-│ └── vagas-vccv-ai-cv-test  
-│ ├── test-report.md  
-│ ├── screenshots  
-│ └── evidence  
-│  
-└── README.md
+   └── vagas-vccv-ai-cv-test  
+       ├── test-report.md  
+       ├── screenshots  
+       └── evidence
