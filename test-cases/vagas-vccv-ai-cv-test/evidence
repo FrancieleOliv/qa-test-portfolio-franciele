@@ -1,0 +1,46 @@
+## Evidence
+
+The evidence is organized by test scenario to improve readability and traceability.
+
+- **pdf-upload** → Evidence related to PDF upload tests  
+- **image-upload** → Evidence related to image upload tests  
+- **text-input** → Evidence related to manual text input tests  
+
+Each folder contains step-by-step screenshots demonstrating the reproduction of the identified issues.
+
+### Example – PDF Upload Flow
+
+**Step 1 – Upload PDF**  
+![Step 1](evidence/pdf-upload/bug-01-step-01-upload-pdf.jpg)
+
+**Step 2 – Processing**  
+![Step 2](evidence/pdf-upload/bug-01-step-02-processing.jpg)
+
+**Step 3 – Unexpected behavior (manual input requested)**  
+![Step 3](evidence/pdf-upload/bug-01-step-03-error.jpg)
+
+
+---
+
+🇧🇷 **Português**
+
+As evidências estão organizadas por cenário de teste para melhorar a legibilidade e a rastreabilidade.
+
+- **upload de PDF** → Evidências relacionadas a testes de upload de PDF
+- **upload de imagem** → Evidências relacionadas a testes de upload de imagem
+- **entrada de texto** → Evidências relacionadas a testes de entrada de texto manual
+
+Cada pasta contém capturas de tela passo a passo demonstrando a reprodução dos problemas identificados.
+
+### Exemplo – Fluxo de Upload de PDF
+
+**Etapa 1 – Upload de PDF** 
+![Etapa 1](evidence/pdf-upload/bug-01-step-01-upload-pdf.jpg)
+
+**Etapa 2 – Processamento** 
+![Etapa 2](evidence/pdf-upload/bug-01-step-02-processing.jpg)
+
+**Etapa 3 – Comportamento inesperado (entrada manual solicitada)** 
+![Etapa 3](evidence/pdf-upload/bug-01-step-03-error.jpg)
+
+
