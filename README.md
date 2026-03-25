@@ -1,6 +1,6 @@
 # QA Test Portfolio
 
-Portfolio project created for QA practice and learning purposes.
+Portfolio project focused on practicing and demonstrating Software Quality Assurance (QA) skills through real-world testing scenarios.
 
 This repository contains software testing cases performed on public web applications, demonstrating practical Quality Assurance (QA) skills.
 
@@ -26,6 +26,13 @@ https://experimente-vccv.vagas.com.br/
 
 `test-cases/vagas-vccv-ai-cv-test/`
 
+## Bugs Identified
+
+- Issues during PDF file processing  
+- Problems with image upload functionality  
+- Translation inconsistency in text input  
+- Performance issue during file processing
+  
 ## Project Structure
 
 ```
@@ -35,18 +42,34 @@ qa-test-portfolio-franciele
 ├── LICENSE
 ├── README.md
 │
-└── test-cases
-    │
-    └── vagas-vccv-ai-cv-test
-        │
+└── test-cases/
+    └── vagas-vccv-ai-cv-test/
+        ├── README.md
         ├── test-report.md
         ├── bug-report.md
-        └── evidence
+        │
+        └── evidences/
+            ├── bug-01-pdf-upload/
+            │   ├── step-01.png
+            │   ├── step-02.png
+            │   └── ...
+            │
+            ├── bug-02-image-upload/
+            │   ├── step-01.png
+            │   └── ...
+            │
+            ├── bug-03-text-input/
+            │   ├── step-01.png
+            │
+            └── bug-04-performance/
+                └── step-01.png
 ```
 
 ---
 
 🇧🇷 **Português**
+
+Projeto de portfólio focado na prática e demonstração de habilidades de Garantia da Qualidade de Software (QA) por meio de cenários de teste do mundo real.
 
 Este repositório reúne casos de testes de software realizados em aplicações web públicas, com o objetivo de demonstrar habilidades práticas em Quality Assurance (QA).
 
@@ -71,4 +94,11 @@ https://experimente-vccv.vagas.com.br/
 📄 A documentação detalhada do teste está disponível em:
 
 `test-cases/vagas-vccv-ai-cv-test/`
+
+## Bugs Identificados
+
+- Problemas durante o processamento de arquivos PDF
+- Problemas com a funcionalidade de upload de imagens
+- Inconsistência na tradução de textos inseridos
+- Problema de desempenho durante o processamento de arquivos
 
