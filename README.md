@@ -61,7 +61,7 @@ qa-test-portfolio-franciele
             ├── bug-03-text-input/
             │   ├── step-01.png
             │
-            └── bug-04-performance/
+            └── bug-04-ux-language/
                 └── step-01.png
 ```
 
