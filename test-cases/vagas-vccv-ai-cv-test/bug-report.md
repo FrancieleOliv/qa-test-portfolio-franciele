@@ -30,7 +30,7 @@ The system reports that the file was received but asks the user to manually ente
 **Evidence**
 
 Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/pdf-upload/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-1-pdf-upload/`
 
 ---
 
@@ -56,7 +56,7 @@ The tool only recognizes the candidate’s name and ignores the remaining inform
 **Evidence**
 
 Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/image-upload/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-2-image-upload/`
 
 ---
 
@@ -86,7 +86,7 @@ The AI response lacks significant enhancement, indicating limited optimization c
 **Evidence**
 
 Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-3-text-input/`
 
 ---
 
@@ -112,7 +112,7 @@ The system switches to English unexpectedly during the explanation.
 **Evidence**
 
 Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/ux-language/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-4-ux-language/`
 
 ------------
 
@@ -151,7 +151,7 @@ O sistema informa que o arquivo foi recebido, mas solicita que o usuário insira
 **Evidências**
 
 Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/pdf-upload/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-1-pdf-upload/`
 
 ---
 
@@ -177,7 +177,7 @@ A ferramenta reconhece apenas o nome do candidato e ignora as demais informaçõ
 **Evidências**
 
 Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/image-upload/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-2-image-upload/`
 
 ---
 
@@ -207,7 +207,7 @@ A resposta da IA ​​carece de aprimoramento significativo, indicando capacida
 **Evidências**
 
 Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-3-text-input/`
 
 ---
 
@@ -233,4 +233,4 @@ O sistema muda para o inglês inesperadamente durante a explicação.
 **Evidências**
 
 Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/ux-language/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/bug-4-ux-language/`
