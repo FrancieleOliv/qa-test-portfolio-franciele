@@ -43,12 +43,13 @@ qa-test-portfolio-franciele
 ├── README.md
 │
 └── test-cases/
+    ├── README.md
     └── vagas-vccv-ai-cv-test/
         ├── README.md
         ├── test-report.md
         ├── bug-report.md
         │
-        └── evidences/
+        └── evidence/
             ├── bug-01-pdf-upload/
             │   ├── step-01.png
             │   ├── step-02.png
@@ -60,9 +61,12 @@ qa-test-portfolio-franciele
             │
             ├── bug-03-text-input/
             │   ├── step-01.png
+            │   └── ...
             │
             └── bug-04-ux-language/
-                └── step-01.png
+            │   └── step-01.png
+            │   
+            └── README.md
 ```
 
 ---
