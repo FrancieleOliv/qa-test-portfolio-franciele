@@ -10,6 +10,7 @@ https://experimente-vccv.vagas.com.br/
 ## Bug 1 – Failure in PDF Data Extraction
 
 **Severity:** High
+**Priority:** High
 **Impact:** The main functionality of the tool does not work correctly, forcing the user to manually enter resume information.
 
 **Steps to reproduce**
@@ -28,13 +29,15 @@ The system reports that the file was received but asks the user to manually ente
 
 **Evidence**
 
-Available in the evidence folder.
+Available in the evidence folder:
+`test-cases/vagas-vccv-ai-cv-test/evidence/pdf-upload/`
 
 ---
 
-## Bug 2 – Image Reading Failure (Limited OCR)
+## Bug 2 – Partial OCR Processing on Image Upload
 
 **Severity:** Medium
+**Priority:** Medium
 **Impact:** The tool recognizes only part of the resume information.
 
 **Steps to reproduce**
@@ -52,13 +55,15 @@ The tool only recognizes the candidate’s name and ignores the remaining inform
 
 **Evidence**
 
-Available in the evidence folder.
+Available in the evidence folder:
+`test-cases/vagas-vccv-ai-cv-test/evidence/image-upload/`
 
 ---
 
-## Bug 3 – Poor Text Optimization
+## Bug 3 – Insufficient Text Optimization by AI Engine
 
 **Severity:** Low
+**Priority:** Low
 **Impact:** The AI does not significantly improve the resume content.
 
 **Steps to reproduce**
@@ -74,15 +79,21 @@ The system should significantly improve and structure the resume content.
 
 The system only replaces some words with synonyms and slightly rearranges paragraphs.
 
+**Observation:**
+
+The AI response lacks significant enhancement, indicating limited optimization capability.
+
 **Evidence**
 
-Available in the evidence folder.
+Available in the evidence folder:
+`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
 
 ---
 
 ## Bug 4 – Language Inconsistency (UX Bug)
 
 **Severity:** Low
+**Priority:** Medium
 **Impact:** Unexpected language switching can confuse the user experience.
 
 **Steps to reproduce**
@@ -100,8 +111,8 @@ The system switches to English unexpectedly during the explanation.
 
 **Evidence**
 
-Available in the evidence folder.
-
+Available in the evidence folder:
+`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
 
 ------------
 
@@ -120,6 +131,7 @@ https://experimente-vccv.vagas.com.br/
 ## Erro 1 – Falha na Extração de Dados do PDF
 
 **Gravidade:** Alta
+**Prioridade:** Alta
 **Impacto:** A funcionalidade principal da ferramenta não funciona corretamente, obrigando o usuário a inserir manualmente as informações do currículo.
 
 **Passos para reproduzir**
@@ -138,13 +150,15 @@ O sistema informa que o arquivo foi recebido, mas solicita que o usuário insira
 
 **Evidências**
 
-Disponíveis na pasta de evidências.
+Disponíveis na pasta de evidências:
+`test-cases/vagas-vccv-ai-cv-test/evidence/pdf-upload/`
 
 ---
 
-## Bug 2 – Falha na Leitura de Imagem (OCR Limitado)
+## Bug 2 – Processamento OCR Parcial no Upload da Imagem
 
 **Gravidade:** Média
+**Prioridade:** Média
 **Impacto:** A ferramenta reconhece apenas parte das informações do currículo.
 
 **Passos para reproduzir**
@@ -162,13 +176,15 @@ A ferramenta reconhece apenas o nome do candidato e ignora as demais informaçõ
 
 **Evidências**
 
-Disponíveis na pasta de evidências.
+Disponíveis na pasta de evidências:
+`test-cases/vagas-vccv-ai-cv-test/evidence/image-upload/`
 
 ---
 
-## Bug 3 – Otimização de Texto Inadequada
+## Bug 3 – Otimização de texto insuficiente pelo mecanismo de IA
 
 **Gravidade:** Baixa
+**Prioridade:** Baixa
 **Impacto:** A IA não melhora significativamente o conteúdo do currículo.
 
 **Passos para reproduzir**
@@ -184,15 +200,21 @@ O sistema deve melhorar e estruturar significativamente o conteúdo do currícul
 
 O sistema apenas substitui algumas palavras por sinônimos e reorganiza ligeiramente os parágrafos.
 
+**Observação:**
+
+A resposta da IA ​​carece de aprimoramento significativo, indicando capacidade de otimização limitada.
+
 **Evidências**
 
-Disponíveis na pasta de evidências.
+Disponíveis na pasta de evidências:
+`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
 
 ---
 
 ## Bug 4 – Inconsistência de idioma (Bug de UX)
 
 **Gravidade:** Baixa
+**Prioridade:** Média
 **Impacto:** A troca inesperada de idioma pode confundir a experiência do usuário.
 
 **Passos para reproduzir**
@@ -210,4 +232,5 @@ O sistema muda para o inglês inesperadamente durante a explicação.
 
 **Evidências**
 
-Disponíveis na pasta de evidências.
+Disponíveis na pasta de evidências:
+`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
