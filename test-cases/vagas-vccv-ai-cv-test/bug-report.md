@@ -112,7 +112,7 @@ The system switches to English unexpectedly during the explanation.
 **Evidence**
 
 Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/ux-language/`
 
 ------------
 
@@ -233,4 +233,4 @@ O sistema muda para o inglês inesperadamente durante a explicação.
 **Evidências**
 
 Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/text-input/`
+`test-cases/vagas-vccv-ai-cv-test/evidence/ux-language/`
