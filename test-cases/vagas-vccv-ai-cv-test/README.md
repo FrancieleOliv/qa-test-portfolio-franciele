@@ -7,8 +7,9 @@ This folder contains all documentation and evidence for QA testing of the AI-pow
 ## Test Documentation
 
 - [Test Report](./test-report.md) – Summary of the testing process, scenarios, and results.
-- [Bug Report](./bug-report.md) – Detailed description of identified defects.
-- [Evidences](./evidences/) – Screenshots and step-by-step proof for each bug.
+- [Bug Reports](./bug-reports/) – Detailed description of identified defects.
+- [Improvements](./improvements/) – Suggested enhancements based on testing analysis.
+- [Evidence](./evidence/) – Screenshots and step-by-step proof for each bug.
 
 ## Tested Scenarios
 
@@ -28,8 +29,9 @@ Esta pasta contém toda a documentação e evidências dos testes de QA realizad
 ## Documentação de Teste
 
 - [Relatório de Teste](./test-report.md) – Resumo do processo de teste, cenários e resultados.
-- [Relatório de Erros](./bug-report.md) – Descrição detalhada dos defeitos identificados.
-- [Evidências](./evidences/) – Capturas de tela e provas passo a passo de cada bug.
+- [Relatório de Bug](./bug-reports/) – Descrição detalhada dos defeitos identificados.
+- [Melhorias](./improvements/) – Sugestões de melhorias com base na análise dos testes.
+- [Evidências](./evidence/) – Capturas de tela e comprovação passo a passo para cada bug.
 
 ## Cenários Testados
 
