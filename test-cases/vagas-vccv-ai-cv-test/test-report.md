@@ -18,11 +18,11 @@ The following scenarios were tested:
 - Interaction with the tool's chatbot
 
 ## Test Results
-During the exploratory testing process, several inconsistencies were identified in the tool's behavior.
+During the exploratory testing process, functional defects and opportunities for improvement in the tool's behavior were identified.
 
-Some issues were related to data extraction limitations and user interface inconsistencies.
+The main points observed are related to data extraction, file processing, and consistency of the user experience.
 
-A detailed description of the identified issues is available in the bug report.
+A detailed description of the identified problems is available in the bug and improvement report.
 
 ## Evidence
 Screenshots and interaction records are available in the evidence directory.
@@ -54,11 +54,11 @@ Os seguintes cenários foram testados:
 - Interação com o chatbot da ferramenta
 
 ## Resultados do Teste
-Durante o processo de teste exploratório, diversas inconsistências foram identificadas no comportamento da ferramenta.
+Durante o processo de teste exploratório, foram identificados defeitos funcionais e oportunidades de melhoria no comportamento da ferramenta.
 
-Alguns problemas estavam relacionados a limitações na extração de dados e inconsistências na interface do usuário.
+Os principais pontos observados estão relacionados à extração de dados, processamento de arquivos e consistência da experiência do usuário.
 
-Uma descrição detalhada dos problemas identificados está disponível no relatório de erros.
+Uma descrição detalhada dos problemas identificados está disponível no relatório de bugs e melhorias.
 
 ## Evidências
 Capturas de tela e registros de interação estão disponíveis no diretório de evidências.
