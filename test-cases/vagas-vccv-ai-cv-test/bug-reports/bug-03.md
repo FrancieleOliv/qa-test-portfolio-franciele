@@ -10,8 +10,9 @@
 
 **Steps to reproduce**
 
-1. Interact with the tool in Portuguese
-2. Continue the interaction until the system explains how the tool works
+1. Access the AI Resume Builder tool
+2. Interact with the tool in Portuguese
+3. Continue the interaction until the system explains how the tool works
 
 **Expected result**
 
@@ -41,8 +42,9 @@ Available in the evidence folder:
 
 **Passos para reproduzir**
 
-1. Interaja com a ferramenta em português.
-2. Continue a interação até que o sistema explique como a ferramenta funciona.
+1. Acesse a ferramenta Criador de Currículos com IA
+2. Interaja com a ferramenta em português.
+3. Continue a interação até que o sistema explique como a ferramenta funciona.
 
 **Resultado esperado**
 
