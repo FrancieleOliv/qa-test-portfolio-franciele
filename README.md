@@ -1,3 +1,5 @@
+## 🇺🇸 English
+
 # QA Test Portfolio
 
 Portfolio project focused on practicing and demonstrating Software Quality Assurance (QA) skills through real-world testing scenarios.
@@ -28,10 +30,13 @@ https://experimente-vccv.vagas.com.br/
 
 ## Bugs Identified
 
-- Issues during PDF file processing  
-- Problems with image upload functionality  
-- Translation inconsistency in text input  
-- Performance issue during file processing
+- Failure in PDF data extraction
+- Partial OCR processing on image upload
+- Language inconsistency in the user interface
+
+## Improvement Suggestion
+
+- Enhancement in AI resume optimization for manually entered content
   
 ## Project Structure
 
@@ -47,7 +52,14 @@ qa-test-portfolio-franciele
     └── vagas-vccv-ai-cv-test/
         ├── README.md
         ├── test-report.md
-        ├── bug-report.md
+        ├── bug-reports/
+        │   ├── README.md
+        │   ├── bug-01.md
+        │   ├── bug-02.md
+        │   ├── bug-03.md
+        │
+        ├── improvements/
+        │   ├── improvement-01.md
         │
         └── evidence/
             ├── bug-01-pdf-upload/
@@ -59,18 +71,14 @@ qa-test-portfolio-franciele
             │   ├── step-01.png
             │   └── ...
             │
-            ├── bug-03-text-input/
+            ├── bug-03-ux-language/
             │   ├── step-01.png
             │   └── ...
             │
-            └── bug-04-ux-language/
-            │   └── step-01.png
-            │   
             └── README.md
 ```
 
 ---
-
 🇧🇷 **Português**
 
 Projeto de portfólio focado na prática e demonstração de habilidades de Garantia da Qualidade de Software (QA) por meio de cenários de teste do mundo real.
@@ -101,8 +109,11 @@ https://experimente-vccv.vagas.com.br/
 
 ## Bugs Identificados
 
-- Problemas durante o processamento de arquivos PDF
-- Problemas com a funcionalidade de upload de imagens
-- Inconsistência na tradução de textos inseridos
-- Problema de desempenho durante o processamento de arquivos
+- Falha na extração de dados de PDF
+- Processamento OCR parcial no upload de imagens
+- Inconsistência de idioma na interface do usuário
+
+## Sugestão de melhoria
+
+- Aprimoramento da otimização de currículos por IA para conteúdo inserido manualmente
 
