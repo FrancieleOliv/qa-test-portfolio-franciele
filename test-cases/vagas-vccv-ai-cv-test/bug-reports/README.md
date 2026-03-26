@@ -4,7 +4,7 @@
 
 This section contains the defects identified during exploratory testing of the AI Resume Builder.
 
-**Application tested:**  
+**Tested application:**  
 https://experimente-vccv.vagas.com.br/
 
 ## Reported Bugs
