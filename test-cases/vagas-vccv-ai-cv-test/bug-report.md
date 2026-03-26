@@ -60,37 +60,7 @@ Available in the evidence folder:
 
 ---
 
-## Bug 3 – Insufficient Text Optimization by AI Engine
-
-**Severity:** Low
-**Priority:** Low
-**Impact:** The AI does not significantly improve the resume content.
-
-**Steps to reproduce**
-
-1. Insert the full resume text manually
-2. Submit the text for optimization
-
-**Expected result**
-
-The system should significantly improve and structure the resume content.
-
-**Actual result**
-
-The system only replaces some words with synonyms and slightly rearranges paragraphs.
-
-**Observation:**
-
-The AI response lacks significant enhancement, indicating limited optimization capability.
-
-**Evidence**
-
-Available in the evidence folder:
-`test-cases/vagas-vccv-ai-cv-test/evidence/bug-3-text-input/`
-
----
-
-## Bug 4 – Language Inconsistency (UX Bug)
+## Bug 3 – Language inconsistency in the user interface (UX)
 
 **Severity:** Low
 **Priority:** Medium
@@ -181,37 +151,7 @@ Disponíveis na pasta de evidências:
 
 ---
 
-## Bug 3 – Otimização de texto insuficiente pelo mecanismo de IA
-
-**Gravidade:** Baixa
-**Prioridade:** Baixa
-**Impacto:** A IA não melhora significativamente o conteúdo do currículo.
-
-**Passos para reproduzir**
-
-1. Insira o texto completo do currículo manualmente.
-2. Envie o texto para otimização.
-
-**Resultado esperado**
-
-O sistema deve melhorar e estruturar significativamente o conteúdo do currículo.
-
-**Resultado atual**
-
-O sistema apenas substitui algumas palavras por sinônimos e reorganiza ligeiramente os parágrafos.
-
-**Observação:**
-
-A resposta da IA ​​carece de aprimoramento significativo, indicando capacidade de otimização limitada.
-
-**Evidências**
-
-Disponíveis na pasta de evidências:
-`test-cases/vagas-vccv-ai-cv-test/evidence/bug-3-text-input/`
-
----
-
-## Bug 4 – Inconsistência de idioma (Bug de UX)
+## Bug 3 – Inconsistência de idioma na interface (UX)
 
 **Gravidade:** Baixa
 **Prioridade:** Média
